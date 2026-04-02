@@ -22,7 +22,7 @@ import java.util.Set;
  * @author Developer
  * @version 3.0
  */
-public class UseCase3TrainConsistMgmt {
+public class UC3 {
 
     public static void main(String[] args) {
 
