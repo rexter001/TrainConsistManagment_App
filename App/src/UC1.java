@@ -40,7 +40,6 @@ public class UC1 {
         System.out.println("Train initialized successfully...");
         System.out.println("Initial Bogie Count : " + trainConsist.size());
         System.out.println("Current Train Consist : " + trainConsist);
-
         System.out.println("\nSystem ready for operations...");
     }
 }
